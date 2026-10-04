@@ -2,6 +2,7 @@
 title = "Comfyjam 2026"
 authors = ["COol People"]
 language = "en"
+src = "."
 
 [build]
-src = "."
+build-dir = "book"
