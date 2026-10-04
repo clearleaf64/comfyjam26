@@ -5,6 +5,7 @@ on:
     branches: ["main"]
     paths:
       - "docs/**"
+      - "book.toml"
 
   workflow_dispatch:
 
@@ -28,12 +29,12 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build mdBook
-        run: mdbook build docs
+        run: mdbook build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: docs/book
+          path: book
 
   deploy:
     environment:
