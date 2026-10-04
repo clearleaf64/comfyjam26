@@ -1,3 +1,3 @@
-# Chapter 1
+# Comfyjam 2026
 
-Whats going on here
+It's so **damn** comfy.
