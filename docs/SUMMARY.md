@@ -1,8 +1,4 @@
 # Summary
 
-WOWOWOWOWOW
-
-It's the summary page.
-
-- [Click here for a good time](./home.md)
-- [An even better time](./epicpage.md)
+- [Comfyjam 2026](./home.md)
+- [Another incredible page](./epicpage.md)
