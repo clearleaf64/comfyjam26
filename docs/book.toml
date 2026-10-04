@@ -1,0 +1,7 @@
+[book]
+title = "Comfyjam 2026"
+authors = ["COol People"]
+language = "en"
+
+[build]
+src = "."
